@@ -28,9 +28,9 @@ In the current file for the image recognition, we are using a custom model that 
 
 `If you wish to use another dataset with another CNN model for the image recognition, it is possible. We have also tried using the MobileNet model with the ImageNet dataset that can classify about 1000 classes. To use it, uncomment the classifyImage function and the getClasses function for the ImageNet, and then comment the classifyImage function and the getClasses function for the MyNursingHome.`
 
-![Uncomment the classifyImage function for Imagenet](images/Screenshot 2024-04-16 123458.png)
+![Uncomment the classifyImage function for Imagenet](https://github.com/Verayzon/vision-translate/assets/118662867/0bb780ec-1257-464a-bc1b-46d7ac88d01b)
 
-![Uncomment the getClasses function for Imagenet](images/Screenshot 2024-04-16 123613.png)
+![Uncomment the getClasses function for Imagenet](https://github.com/Verayzon/vision-translate/assets/118662867/54997507-ca77-4a83-91aa-328f96e122c2)
 
 ## Usage
 Select the desired function on the main screen. Point your device's camera towards an object or text, and the app will process and vocalize the information. Double-tap the screen to select options.
