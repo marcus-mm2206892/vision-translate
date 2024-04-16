@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745930821591",
+    "project_id": "imageclassifierfirebase",
+    "storage_bucket": "imageclassifierfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745930821591:android:cbd005522a1faca7294592",
+        "android_client_info": {
+          "package_name": "com.example.imageclassifier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKe0fzxVcDWuV4kKzBOJ-mzKGXYY_OgFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

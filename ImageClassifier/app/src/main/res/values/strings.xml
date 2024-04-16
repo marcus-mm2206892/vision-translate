@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageClassifier</string>
+    <string name="default_translate_from">Translate from</string>
+</resources>

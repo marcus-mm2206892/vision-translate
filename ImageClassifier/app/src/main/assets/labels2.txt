@@ -1,0 +1,25 @@
+trash bin
+bed
+bench
+cabinet
+call bell
+cane
+chair
+door
+electric socket
+fan
+fire extinguisher
+handrail
+person
+rack
+refrigerator
+shower
+sink
+sofa
+table
+television
+toilet seat
+walker
+wardrobe
+water dispenser
+wheelchair

@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="10dp" /> <!-- Adjust the radius to control the roundness of the corners -->
+    <gradient android:startColor="#7a8afa" android:endColor="#4958dc" android:angle="0"/>
+</shape>

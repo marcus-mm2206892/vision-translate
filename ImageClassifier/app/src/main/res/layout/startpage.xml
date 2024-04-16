@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".startPage"
+    android:background="#252525">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" />
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="275dp">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:visibility="visible"
+            app:layout_constraintBottom_toBottomOf="@+id/imageView"
+            app:layout_constraintEnd_toEndOf="@+id/imageView"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/imageView"
+            app:srcCompat="@drawable/top_background_gradient" />
+
+        <ImageView
+
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/top_background" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:fontFamily="@font/opensansregular"
+            android:text="Picking Language Destination..."
+            android:textAlignment="center"
+            android:textColor="#FFFFFF"
+            android:textSize="40sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <Button
+        android:id="@+id/languageBtn"
+        android:layout_width="400dp"
+        android:layout_height="300dp"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:background="@drawable/rounded_button_background"
+        android:text="Destination Language"
+        android:inputType="text"
+        android:textAlignment="center"
+        android:fontFamily="@font/opensansbold"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        android:textAllCaps="false"
+        />
+
+    <ImageButton
+        android:id="@+id/micBtn"
+        android:layout_width="190dp"
+        android:layout_height="190dp"
+        android:layout_below="@id/languageBtn"
+        android:layout_marginTop="80dp"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="Icon 1"
+        android:scaleType="fitCenter"
+        android:padding="40dp"
+        android:background="@drawable/blue_circle_border"
+        android:backgroundTint="#8391F7"
+        app:srcCompat="@drawable/mic_off" />
+
+
+
+</RelativeLayout>

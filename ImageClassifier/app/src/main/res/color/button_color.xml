@@ -1,0 +1,10 @@
+<!-- res/color/button_color.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Default state: Mint green -->
+    <item android:state_enabled="true" android:color="#3EB489"/> <!-- Mint green -->
+
+    <!-- Pressed state: Darker green -->
+    <item android:state_pressed="true" android:color="#006400"/> <!-- Darker green -->
+
+
+</selector>
