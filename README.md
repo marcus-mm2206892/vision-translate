@@ -26,7 +26,7 @@ In the current file for the image recognition, we are using a custom model that 
 
 `If you wish to use another dataset with another CNN model for the image recognition, it is possible. We have also tried using the MobileNet model with the ImageNet dataset that can classify about 1000 classes. To use it, uncomment the classifyImage function and the getClasses function for the ImageNet, and then comment the classifyImage function and the getClasses function for the MyNursingHome.`
 
-## Inside imageClassifierPage.java, please follow this:
+## If you want to use the ImageNet dataset, please follow this inside imageClassifierPage.java:
 ![Uncomment the classifyImage function for Imagenet](https://github.com/Verayzon/vision-translate/assets/118662867/0bb780ec-1257-464a-bc1b-46d7ac88d01b)
 
 ![Uncomment the getClasses function for Imagenet](https://github.com/Verayzon/vision-translate/assets/118662867/54997507-ca77-4a83-91aa-328f96e122c2)
