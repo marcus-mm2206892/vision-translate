@@ -13,10 +13,10 @@ Accessible UI: Large buttons and voice feedback ensure the app is easy to naviga
 
 ## Project Demo
 
-### Application Demo
+### Application Demo (Using ImageNet Dataset)
 [!(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)](https://github.com/Verayzon/vision-translate/assets/118662867/1026042b-4a54-484e-9c10-8875e0d34ed3)
 
-### Image Classification
+### Image Classification (Using Our Custom Model [MyNursingHome Dataset])
 [!(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)](https://github.com/Verayzon/vision-translate/assets/118662867/6aef3089-7852-4fa9-83eb-e86130601a4d)
 
 ### Character Recognition
