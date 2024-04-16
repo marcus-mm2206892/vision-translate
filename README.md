@@ -17,10 +17,10 @@ Accessible UI: Large buttons and voice feedback ensure the app is easy to naviga
 [!(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)](https://github.com/Verayzon/vision-translate/assets/118662867/1026042b-4a54-484e-9c10-8875e0d34ed3)
 
 ### Image Classification
-![B](https://github.com/Verayzon/vision-translate/assets/118662867/6aef3089-7852-4fa9-83eb-e86130601a4d)
+[!(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)](https://github.com/Verayzon/vision-translate/assets/118662867/6aef3089-7852-4fa9-83eb-e86130601a4d)
 
 ### Character Recognition
-![C](https://github.com/Verayzon/vision-translate/assets/118662867/e47eef33-0817-4072-b321-c20177ef63e6)
+[!(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)](https://github.com/Verayzon/vision-translate/assets/118662867/e47eef33-0817-4072-b321-c20177ef63e6)
 
 ## Prerequisites
 Android Studio
