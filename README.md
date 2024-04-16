@@ -5,7 +5,7 @@ VisionTranslate is an Android application designed to empower visually impaired 
 
 ## Features
 ### Image Classification: 
-Utilize your phone's camera or gallery to identify objects with our trained CNN model.
+Utilize your phone's camera or gallery to identify objects with our trained CNN model or a pre-trained CNN model of your liking.
 ### Text Recognition: 
 Instantly convert text from images to speech in your preferred language.
 Language Translation: Easily translate the recognized text into multiple languages.
