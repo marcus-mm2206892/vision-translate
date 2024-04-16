@@ -1,9 +1,5 @@
 # VisionTranslate: Enhancing Visual Accessibility
 
-## Creators:
-### Marcus Wein Monteiro
-### Mohammed Laith Alfaiad
-
 ## Introduction
 VisionTranslate is an Android application designed to empower visually impaired individuals with the ability to recognize objects and translate text into speech. By leveraging advanced machine learning and image processing technologies, VisionTranslate offers a user-friendly interface to interact with their environment more independently.
 
@@ -58,3 +54,8 @@ MyNursingHome dataset
 Google ML Kit
 
 TensorFlow Community
+
+## Creators:
+Marcus Wein Monteiro
+
+Mohammed Laith Alfaiad
