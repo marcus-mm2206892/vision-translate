@@ -25,9 +25,10 @@ Note: The videos are laggy due to the limitations of my computer, which struggle
 [!(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)](https://github.com/Verayzon/vision-translate/assets/118662867/e47eef33-0817-4072-b321-c20177ef63e6)
 
 ## Prerequisites
+
 Android Studio
+
 An Android device or emulator
-TensorFlow Lite
 
 ## Installation
 Open the project in Android Studio.
