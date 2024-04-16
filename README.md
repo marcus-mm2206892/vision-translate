@@ -58,7 +58,7 @@ Google ML Kit
 
 TensorFlow Community
 
-## Creators:
+## Creators
 Marcus Wein Monteiro
 
 Mohammed Laith Alfaiad
