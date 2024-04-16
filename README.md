@@ -1,40 +1,44 @@
 # vision-translate
 
-##VisionTranslate: Enhancing Visual Accessibility**
+## VisionTranslate: Enhancing Visual Accessibility**
 
-#Introduction
+# Introduction
 VisionTranslate is an Android application designed to empower visually impaired individuals with the ability to recognize objects and translate text into speech. By leveraging advanced machine learning and image processing technologies, VisionTranslate offers a user-friendly interface to interact with their environment more independently.
 
-##Features
-#Image Classification: 
+## Features
+# Image Classification: 
 Utilize your phone's camera or gallery to identify objects with our trained CNN model.
-#Text Recognition: 
+# Text Recognition: 
 Instantly convert text from images to speech in your preferred language.
 Language Translation: Easily translate the recognized text into multiple languages.
 Accessible UI: Large buttons and voice feedback ensure the app is easy to navigate.
 
-##Prerequisites
+## Prerequisites
 Android Studio
 An Android device or emulator
 TensorFlow Lite
 
-##Installation
+## Installation
 Open the project in Android Studio.
 Build the project to resolve dependencies.
 Run the application on your Android device or emulator.
 
-##IMPORTANT NOTES
+## IMPORTANT NOTES
 In the current file for the image recognition, we are using a custom model that we made (also attached in the repository) MyNursingHome CNN Model. The "MYNursingHome" dataset is a vital resource for the development of assistive technologies through computer vision, particularly for disabled individuals. It offers a substantial collection of fully labeled images of everyday objects found in elderly care environments. With 37,500 images across 25 categories, researchers can use this dataset to create object detection systems that facilitate greater independence for the visually impaired, helping them navigate indoor spaces with confidence. Its practical focus on items surrounding the elderly makes it a unique and valuable tool for innovating assistive devices and enhancing the quality of life for those without vision. The dataset can be downloaded here: [MyNursingHome](https://data.mendeley.com/datasets/fpctx3svzd/1).
 
-If you wish to use another dataset with another CNN model for the image recognition, it is possible. We have also tried using the MobileNet model with the ImageNet dataset that can classify about 1000 classes. To use it, uncomment the classifyImage function and the getClasses function for the ImageNet, and then comment the classifyImage function and the getClasses function for the MyNursingHome.
+`If you wish to use another dataset with another CNN model for the image recognition, it is possible. We have also tried using the MobileNet model with the ImageNet dataset that can classify about 1000 classes. To use it, uncomment the classifyImage function and the getClasses function for the ImageNet, and then comment the classifyImage function and the getClasses function for the MyNursingHome.`
 
-##Usage
+![Uncomment the classifyImage function for Imagenet](images/Screenshot 2024-04-16 123458.png)
+
+![Uncomment the getClasses function for Imagenet](images/Screenshot 2024-04-16 123613.png)
+
+## Usage
 Select the desired function on the main screen. Point your device's camera towards an object or text, and the app will process and vocalize the information. Double-tap the screen to select options.
 
-###Contributing
+### Contributing
 We welcome contributions and suggestions!
 
-###Acknowledgements
+### Acknowledgements
 MyNursingHome dataset
 Google ML Kit
 TensorFlow Community
