@@ -38,5 +38,7 @@ We welcome contributions and suggestions!
 
 ## Acknowledgements
 MyNursingHome dataset
+
 Google ML Kit
+
 TensorFlow Community
