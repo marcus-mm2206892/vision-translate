@@ -1,4 +1,4 @@
-# VisionTranslate: Enhancing Visual Accessibility
+# Vision Translate: A Computer Vision Mobile App for Accessibility and Multimodal Translation for the Visually Impaired
 
 ## Introduction
 VisionTranslate is an Android application designed to empower visually impaired individuals with the ability to recognize objects and translate text into speech. By leveraging advanced machine learning and image processing technologies, VisionTranslate offers a user-friendly interface to interact with their environment more independently.
